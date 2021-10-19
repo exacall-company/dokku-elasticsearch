@@ -1,1 +1,1 @@
-FROM alsheikhdev/mmk:elasticsearchingest7.14.2
+FROM alsheikhdev/mmk:elasticsearch-ingest-attachment
