@@ -1,1 +1,1 @@
-FROM dsteinkopf/elasticsearch-ingest-attachment:latest
+FROM alsheikhdev/mmk:elasticsearchingest7.9.0
