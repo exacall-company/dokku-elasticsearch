@@ -1,1 +1,1 @@
-FROM alsheikhdev/mmk:elasticsearchingest7.9.0
+FROM alsheikhdev/mmk:elasticsearchingest7.14.2
